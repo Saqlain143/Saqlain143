@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saqlain Abid</h1>
-<h3 align="center">A passionate Ethical Hacker / Penetration Tester from Pakistan</h3>
+<h3 align="center">A passionate Ethical Hacker & Penetration Tester from Pakistan</h3>
+<img align="right" alt=“Ethical Hacking” width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif?tracking_source=search_projects%7Canimated+portrait”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
 
@@ -9,11 +10,9 @@
 
 - 🌱 I’m currently learning **Ethical Hacking & Penetration Testing**
 
-- 💬 Ask me about **Pen-Testing, Kali Linux**
+- 💬 Ask me about **Pen-Testing, Kali Linux, CTF's**
 
 - 📫 How to reach me **saqlainabid143@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F2QJNGeRKrEg7VpGteuyzU3hat5KawI6/view](https://drive.google.com/file/d/1F2QJNGeRKrEg7VpGteuyzU3hat5KawI6/view)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -31,8 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saqlainabid143"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqlainabid143" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlain143&show_icons=true&locale=en&layout=compact" alt="saqlain143" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlain143&show_icons=true&locale=en" alt="saqlain143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain143&" alt="saqlain143" /></p>
+
