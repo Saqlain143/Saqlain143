@@ -1,6 +1,12 @@
 <h3 align="center">
   
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Python%20Developer🏅&height=100&animation=twinkling&section=header)
+
+</h3>
+
+<h3 align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 </h3>
 
@@ -60,4 +66,3 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </h3>
-
