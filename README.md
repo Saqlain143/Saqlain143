@@ -1,4 +1,9 @@
-<img src="https://github.com/Saqlain143/Saqlain143/blob/main/hacker-91913.gif" align="center" width= "100%" />
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif" width="35" />, I'm Saqlain Abid👨‍💻</h1>
 <h3 align="center">A passionate Ethical Hacker & Penetration Tester from Pakistan 🚀</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
@@ -49,3 +54,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saqlainabid143"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqlainabid143" /></a></p><br><br>
+
+<h3 align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
+
