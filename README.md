@@ -8,8 +8,13 @@
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif" width="35" />, I'm Saqlain Abid👨‍💻</h1>
-<h3 align="center">A passionate Ethical Hacker & Penetration Tester from Pakistan 🚀</h3>
+<p align="center">
+    <a href="https://github.com/arhamansari11"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️‍🔥;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
+    </a>
+</p>
+
+<h3 align="center">A passionate Software Engineer from Pakistan 🚀</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
