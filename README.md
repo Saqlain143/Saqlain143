@@ -66,7 +66,7 @@
 # Github Stats📈:
 <p align="center">
     <a href="https://github.com/Saqlain143">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saqlain143&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saqlain143&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
