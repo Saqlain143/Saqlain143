@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://github.com/arhamansari11"> 
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️‍🔥;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
     </a>
 </p>
 
-<h3 align="center">A passionate Software Engineer from Pakistan 🚀</h3>
+# About me: 🚀
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
@@ -60,6 +60,20 @@
 <p>&nbsp;<img align=“left” src="https://github-readme-stats.vercel.app/api?username=saqlain143&show_icons=true&locale=en" alt="saqlain143" /></p>
 
 <p><img align=“right” src="https://github-readme-streak-stats.herokuapp.com/?user=saqlain143&" alt="saqlain143" /></p>
+
+## COMPLETED INTERNATIONAL HACKATHONS🥇:
+
+<p float="left">
+ <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
+    <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
+  </a>
+    &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
+     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
+  </a>
+</p>
+
+#
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saqlainabid143"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqlainabid143" /></a></p><br><br>
