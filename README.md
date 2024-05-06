@@ -9,7 +9,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="center">
-    <a href="https://github.com/arhamansari11"> 
+    <a href="https://github.com/Saqlain143"> 
   <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
     </a>
 </p>
@@ -82,11 +82,11 @@
 # COMPLETED INTERNATIONAL HACKATHONS🥇:
 
 <p float="left">
- <a href="https://lablab.ai/event/gemini-ultra-hackathon/labgurus/efa-event-feedback-assistant">
+ <a href="https://lablab.ai/event/gemini-ultra-hackathon/ragistan/shopgini">
     <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_of20k0306.webp" width="390">
   </a>
     &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/advanced-rag-hackathon/social-assistant/equacare">
+   <a href="https://lablab.ai/event/advanced-rag-hackathon/ragistan/shop-gini">
      <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
   </a>
 </p>
