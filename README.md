@@ -14,7 +14,7 @@
     </a>
 </p>
 
-# About me: 🚀
+## About me: 🚀
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-## Connect with me  
+## Let's Connect and have a Chat! 💬 
 <a href="https://github.com/Saqlain143" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
