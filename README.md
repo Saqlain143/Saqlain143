@@ -20,7 +20,7 @@
 
 #
 
-# About me🚀:
+# ABOUT ME🚀:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
@@ -74,7 +74,7 @@
 </a>  
 </p>
 
-# Skill Set🛠:
+# SKILL SET🛠:
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -101,7 +101,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-# Github Stats📈:
+# GITHUB STATS📈:
 <p align="center">
     <a href="https://github.com/Saqlain143">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
