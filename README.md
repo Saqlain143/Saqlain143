@@ -23,7 +23,9 @@
 # About Me🚀:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p> -->
+
+[![LeetCode user saqlainabid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/saqlainabid/)
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Saqlain143.svg)](https://user-badge.committers.top/pakistan/Saqlain143)
 
