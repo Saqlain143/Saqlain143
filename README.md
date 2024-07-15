@@ -136,6 +136,14 @@
    <a href="https://lablab.ai/event/hello-gpt-4o-ai-challenge/quantum-innovators/insightgpt">
      <img src="undefined_imageLink_iu6w770ytv.webp" width="390">
   </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/lablab-next-create-your-startup/ez-read/ez-read">
+     <img src="undefined_imageLink_68lwe087o.webp" width="390">
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/langflow-hackathon/navicare-ai/navicare-ai">
+     <img src="clxnphmj200153b6tn0cpmvzb_imageLink_f11e203ww.webp" width="390">
+  </a>
   </a>
 </p>
 
