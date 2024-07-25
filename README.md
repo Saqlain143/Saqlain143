@@ -144,6 +144,10 @@
    <a href="https://lablab.ai/event/langflow-hackathon/navicare-ai/navicare-ai">
      <img src="clxnphmj200153b6tn0cpmvzb_imageLink_f11e203ww.webp" width="390">
   </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/llama-3-ai-hackathon/globeinsight/globeinsight">
+     <img src="clw13vm5r001k356t6lox3ahz_imageLink_9u464f0y6t.webp" width="390">
+  </a>
   </a>
 </p>
 
