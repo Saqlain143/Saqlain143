@@ -148,6 +148,10 @@
    <a href="https://lablab.ai/event/llama-3-ai-hackathon/globeinsight/globeinsight">
      <img src="clw13vm5r001k356t6lox3ahz_imageLink_9u464f0y6t.webp" width="390">
   </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/falcon-hackathon/edu4all/find-n-speak">
+     <img src="clxosrgnm00133b6tlf0k5cgc_imageLink_432k5j08gx.webp" width="390">
+  </a>
   </a>
 </p>
 
