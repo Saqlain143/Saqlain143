@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **LeetCode & Python Development**
 
-- 🌱 I’m currently learning **MERN Development, Flask, Django**
+- 🌱 I’m currently learning **Flutter, Flask, Django**
 
 - 💬 Ask me about **Python, LeetCode, AI/ML**
 
