@@ -130,7 +130,7 @@
      <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
   </a>
       &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/benin-multimodal-ai-hackathon/immersiveculturalexplorer">
+   <a href="https://lablab.ai/event/benin-multimodal-ai-hackathon/immersiveculturalexplorer/harmony">
      <img src="undefined_imageLink_lk8u20gm3.webp" width="390">
       &nbsp; &nbsp;
    <a href="https://lablab.ai/event/hello-gpt-4o-ai-challenge/quantum-innovators/insightgpt">
