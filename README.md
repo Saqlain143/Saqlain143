@@ -152,6 +152,10 @@
    <a href="https://lablab.ai/event/falcon-hackathon/edu4all/find-n-speak">
      <img src="clxosrgnm00133b6tlf0k5cgc_imageLink_432k5j08gx.webp" width="390">
   </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/psyscribe/psycribe">
+     <img src="AI Agents Hackathon.webp" width="390">
+  </a>
   </a>
 </p>
 
