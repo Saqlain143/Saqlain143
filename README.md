@@ -156,6 +156,13 @@
    <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/psyscribe/psycribe">
      <img src="AI Agents Hackathon.webp" width="390">
   </a>
+      &nbsp; &nbsp;
+   <a href="https://hackaichallenge.devpost.com">
+     <img src="HackAI_Dell_and_Nvidia_Challenge.png" width="390" height="200">
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/agriview-tools/?tab=project">
+     <img src="NASA_Space_Apps_Challenge.jpg" width="390">
   </a>
 </p>
 
