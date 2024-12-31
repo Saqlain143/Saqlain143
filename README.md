@@ -161,8 +161,24 @@
      <img src="HackAI_Dell_and_Nvidia_Challenge.png" width="390" height="200">
   </a>
       &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/posts/saqlainabid143_metahackercup-codingjourney-proudmoment-activity-7244286398130765824-gXDv?utm_source=share&utm_medium=member_desktop">
+     <img src="Meta_Hacker_Cup_2024.jpg" width="390">
+  </a>
+      &nbsp; &nbsp;
    <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/agriview-tools/?tab=project">
      <img src="NASA_Space_Apps_Challenge.jpg" width="390">
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/posts/saqlainabid143_achievement-teamwork-silverbrick-activity-7269609768133033985-b-op?utm_source=share&utm_medium=member_desktop">
+     <img src="calico_fall_24_silver_certificate_Saqlain Abid.png" width="390">
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/doge-ai-hackathon/bureaucracy-busters/work-fusion-app">
+     <img src="cm3j29bp4000c357syh9kanc3_imageLink_8a2zq20cdl.webp" width="390">
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/workfusionapp">
+     <img src="cm48fgskd000b356zv4ebb0pv_imageLink_ith0k081a.webp" width="390">
   </a>
 </p>
 
