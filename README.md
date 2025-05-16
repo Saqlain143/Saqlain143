@@ -8,11 +8,8 @@
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-<p align="center">
-    <a href="https://github.com/Saqlain143"> 
-  <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Programmer%20⚡️;I%20am%20a%20Python%20Developer%20🐍;Love%20to%20code%20❤️;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=FF6400&vCenter=true&size=20&pause=300">
-    </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=435&lines=I+am+a+Programmer+%E2%9A%A1%EF%B8%8F;I+am+a+Python+Developer+%F0%9F%90%8D;Love+to+code+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 #
 
