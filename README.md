@@ -195,187 +195,173 @@
     <th>Earnable</th>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2025-200.gif" width="200"></td>
+    <td align="center"><img src="Badges/Annual-Medals/GIF/2025-200.gif" width="100"></td>
     <td align="center">200 Days Badge 2025</td>
     <td align="center">Submit code on 200+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/25100.gif" width="200"></td>
+    <td align="center"><img src="Badges/Annual-Medals/GIF/25100.gif" width="100"></td>
     <td align="center">100 Days Badge 2025</td>
     <td align="center">Submit code on 100+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2550.gif" width="200"></td>
+    <td align="center"><img src="Badges/Annual-Medals/GIF/2550.gif" width="100"></td>
     <td align="center">50 Days Badge 2025</td>
     <td align="center">Submit code on 50+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2024-100-new.gif" width="200"></td>
+    <td align="center"><img src="Badges/Annual-Medals/GIF/2024-100-new.gif" width="100"></td>
     <td align="center">100 Days Badge 2024</td>
     <td align="center">Submit code on 100+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2024-50.gif" width="200"></td>
+    <td align="center"><img src="Badges/Annual-Medals/GIF/2024-50.gif" width="100"></td>
     <td align="center">50 Days Badge 2024</td>
     <td align="center">Submit code on 50+ distinct days in 2024</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Competition-Medals/GIF/Guardian.gif" width="200"></td>
+    <td align="center"><img src="Badges/Competition-Medals/GIF/Guardian.gif" width="100"></td>
     <td align="center">Guardian</td>
     <td align="center">Be in the top 5% of contest-rated users (rating ≥ 1600) by overall contest rating</td>
     <td align="center">Competition Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Competition-Medals/GIF/Knight.gif" width="200"></td>
+    <td align="center"><img src="Badges/Competition-Medals/GIF/Knight.gif" width="100"></td>
     <td align="center">Knight</td>
     <td align="center">Be in the top 25% of contest-rated users (rating ≥ 1600) by overall contest rating</td>
     <td align="center">Competition Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Introduction_to_Pandas.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Introduction_to_Pandas.gif" width="100"></td>
     <td align="center">Introduction to Pandas</td>
     <td align="center">Complete the "Introduction to Pandas" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Pandas.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Pandas.gif" width="100"></td>
     <td align="center">30 Days of Pandas</td>
     <td align="center">Complete the "30 Days of Pandas" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Programming_Skills.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Programming_Skills.gif" width="100"></td>
     <td align="center">30 Days of JavaScript</td>
     <td align="center">Complete the "30 Days of JavaScript" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_Interview_150.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_Interview_150.gif" width="100"></td>
     <td align="center">Top Interview 150</td>
     <td align="center">Complete the "Top Interview 150" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/LeetCode_75.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/LeetCode_75.gif" width="100"></td>
     <td align="center">LeetCode 75</td>
     <td align="center">Complete the "LeetCode 75" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_100_Liked.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_100_Liked.gif" width="100"></td>
     <td align="center">Top 100 Liked</td>
     <td align="center">Complete the "Top 100 Liked" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_SQL_50.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Top_SQL_50.gif" width="100"></td>
     <td align="center">SQL 50</td>
     <td align="center">Complete the "SQL 50" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Premium_Algo_100.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Premium_Algo_100.gif" width="100"></td>
     <td align="center">Premium Algo 100</td>
     <td align="center">Complete the "Premium Algo 100" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Premium_SQL_50.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Premium_SQL_50.gif" width="100"></td>
     <td align="center">Advanced SQL 50</td>
     <td align="center">Complete the "Advanced SQL 50" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Dynamic_Programming-.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Dynamic_Programming-.gif" width="100"></td>
     <td align="center">Dynamic Programming</td>
     <td align="center">Complete the "Dynamic Programming" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Dynamic_Programming_Grandmaster.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Dynamic_Programming_Grandmaster.gif" width="100"></td>
     <td align="center">Dynamic Programming Grandmaster</td>
     <td align="center">Complete the "Dynamic Programming Grandmaster" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Graph_Theory.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Graph_Theory.gif" width="100"></td>
     <td align="center">Graph Theory</td>
     <td align="center">Complete the "Graph Theory" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Binary_Search.gif" width="200"></td>
+    <td align="center"><img src="Badges/Study-Plan-Medals/GIF/Binary_Search.gif" width="100"></td>
     <td align="center">Binary Search</td>
     <td align="center">Complete the "Binary Search" study plan</td>
     <td align="center">Study Plan Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Submission-Days/GIF/2k.gif" width="200"></td>
+    <td align="center"><img src="Badges/Submission-Days/GIF/2k.gif" width="100"></td>
     <td align="center">2000 Days Badge</td>
     <td align="center">Submit code on 2000+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Submission-Days/GIF/1k.gif" width="200"></td>
+    <td align="center"><img src="Badges/Submission-Days/GIF/1k.gif" width="100"></td>
     <td align="center">1000 Days Badge</td>
     <td align="center">Submit code on 1000+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Submission-Days/GIF/500.gif" width="200"></td>
+    <td align="center"><img src="Badges/Submission-Days/GIF/500.gif" width="100"></td>
     <td align="center">500 Days Badge</td>
     <td align="center">Submit code on 500+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Submission-Days/GIF/365.gif" width="200"></td>
+    <td align="center"><img src="Badges/Submission-Days/GIF/365.gif" width="100"></td>
     <td align="center">365 Days Badge</td>
     <td align="center">Submit code on 365+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">❌</td>
   </tr>
-  <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2024.gif" width="200"></td>
-    <td align="center">Annual Badge 2024</td>
-    <td align="center">Submit code on 300+ distinct days in 2024</td>
-    <td align="center">Annual Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Badges/Annual-Medals/GIF/2024-200.gif" width="200"></td>
-    <td align="center">200 Days Badge 2024</td>
-    <td align="center">Submit code on 200+ distinct days in 2024</td>
-    <td align="center">Annual Medals</td>
-    <td align="center">❌</td>
-  </tr>
 
 
 
@@ -384,84 +370,84 @@
 
 
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202501.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202501.gif" width="100"></td>
     <td align="center">Jan 2025 Badge</td>
     <td align="center">Submit code daily in January 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202502.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202502.gif" width="100"></td>
     <td align="center">Feb 2025 Badge</td>
     <td align="center">Submit code daily in February 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202503.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202503.gif" width="100"></td>
     <td align="center">Mar 2025 Badge</td>
     <td align="center">Submit code daily in March 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202504.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202504.gif" width="100"></td>
     <td align="center">Apr 2025 Badge</td>
     <td align="center">Submit code daily in April 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202505.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202505.gif" width="100"></td>
     <td align="center">May 2025 Badge</td>
     <td align="center">Submit code daily in May 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202506.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202506.gif" width="100"></td>
     <td align="center">Jun 2025 Badge</td>
     <td align="center">Submit code daily in June 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202507.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202507.gif" width="100"></td>
     <td align="center">Jul 2025 Badge</td>
     <td align="center">Submit code daily in July 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202508.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202508.gif" width="100"></td>
     <td align="center">Aug 2025 Badge</td>
     <td align="center">Submit code daily in August 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202509.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202509.gif" width="100"></td>
     <td align="center">Sep 2025 Badge</td>
     <td align="center">Submit code daily in September 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202510.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202510.gif" width="100"></td>
     <td align="center">Oct 2025 Badge</td>
     <td align="center">Submit code daily in October 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202511.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202511.gif" width="100"></td>
     <td align="center">Nov 2025 Badge</td>
     <td align="center">Submit code daily in November 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Badges/Daily-Medals/GIF/202512.gif" width="200"></td>
+    <td align="center"><img src="Badges/Daily-Medals/GIF/202512.gif" width="100"></td>
     <td align="center">Dec 2025 Badge</td>
     <td align="center">Submit code daily in December 2025</td>
     <td align="center">Daily Medals</td>
