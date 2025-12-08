@@ -16,6 +16,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 #
+![cover](cover_image.png)
+#
 
 # About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
