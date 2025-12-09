@@ -11,14 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=435&lines=I+am+a+Programmer+%E2%9A%A1%EF%B8%8F;I+am+a+Python+Developer+%F0%9F%90%8D;Love+to+code+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-<!--x axis divider-->
-
-![](horizontal-divider-gradient.gif)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)
-
 <!--x-axis divider-->
-
 ![](horizontal-divider-gradient.gif)
 ![cover](cover_image.png)
 ![](horizontal-divider-gradient.gif)
