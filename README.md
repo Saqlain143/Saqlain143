@@ -13,7 +13,7 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)
 
 #
 ![cover](cover_image.png)
