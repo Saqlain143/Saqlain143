@@ -11,16 +11,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=435&lines=I+am+a+Programmer+%E2%9A%A1%EF%B8%8F;I+am+a+Python+Developer+%F0%9F%90%8D;Love+to+code+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-#
+<!--x axis divider-->
+
+![](horizontal-divider-gradient.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=Saqlain143&theme=juicyfresh)
 
-#
+<!--x-axis divider-->
+
+![](horizontal-divider-gradient.gif)
 ![cover](cover_image.png)
-#
+![](horizontal-divider-gradient.gif)
 
 # About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">:
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p> -->
 
