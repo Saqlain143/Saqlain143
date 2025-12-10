@@ -8,7 +8,6 @@
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Saqlain143&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=435&lines=I+am+a+Programmer+%E2%9A%A1%EF%B8%8F;I+am+a+Python+Developer+%F0%9F%90%8D;Love+to+code+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <!--x-axis divider-->
@@ -16,33 +15,42 @@
 ![cover](cover_image.png)
 ![](horizontal-divider-gradient.gif)
 
-<h1 style="border-bottom: none;">About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">:</h1>
-
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif)
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" />
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="saqlain143" /> </p> -->
+<!-- # About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">: -->
 
 [![LeetCode user saqlainabid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/saqlainabid/)
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Saqlain143.svg)](https://user-badge.committers.top/pakistan/Saqlain143)
 
-- 🔭 I’m currently working on **LeetCode & Python Development**
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" /> -->
 
-- 🌱 I’m currently learning **Flutter, Flask, Django**
+<picture>
+<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
 
-- 💬 Ask me about **Python, LeetCode, AI/ML**
+```js
+"use creativity";
+import { Person } from "indonesia";
 
-- 📫 How to reach me **saqlainabid143@gmail.com**
+new Person({
+  name: "Deri Kurniawan",
+  title: "Full Stack Developer",
+  email: "hi@derikn.com",
+  website: "https://derikn.com",
+  junior: !!!false,
+}).introduce();
+```
 
-- ⚡ Fun fact **I think I am funny**
+```cmd
+D:\lab\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
+```
 
-<h1 style="border-bottom: none;">Let's Connect and have a Chat!  💬</h1>
+<div align="center">
 
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
+
+# Let's Connect and have a Chat! 💬 
 <p align="center">
 <a href="https://github.com/Saqlain143" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -79,11 +87,7 @@
 </a>  
 </p>
 
-<h1 style="border-bottom: none;">Skill Set 🛠:</h1>
-
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
-
+# Skill Set🛠:
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -110,11 +114,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h1 style="border-bottom: none;">GitHub Stats 📈:</h1>
-
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
-
+# GitHub Stats📈:
 <p align="center">
     <a href="https://github.com/Saqlain143">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -130,10 +130,7 @@
 
 #
 
-<h1 style="border-bottom: none;">Completed International Hackathons 🥇:</h1>
-
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
+# Completed International Hackathons🥇:
 
 <p float="left">
  <a href="https://lablab.ai/event/gemini-ultra-hackathon/ragistan/shopgini">
@@ -196,13 +193,9 @@
   </a>
 </p>
 
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
+#
 
-<h1 style="border-bottom: none;">LeetCode Badges 🏆:</h1>
-
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif) 
+# 🏆 LeetCode Badges 🏆
 
 <br>
 
@@ -477,11 +470,9 @@
 </table>
 </div>
 
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif)
+#
 ![snake gif](https://github.com/Saqlain143/Saqlain143/blob/output/github-contribution-grid-snake-dark.svg)
-<!--x-axis divider-->
-![](horizontal-divider-gradient.gif)
+#
 
 <h3 align="center">
   
