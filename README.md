@@ -10,12 +10,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=435&lines=I+am+a+Programmer+%E2%9A%A1%EF%B8%8F;I+am+a+Python+Developer+%F0%9F%90%8D;Love+to+code+%E2%9D%A4%EF%B8%8F;Always+learning+new+things+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
+</h3>
+
 <!--x-axis divider-->
 ![](horizontal-divider-gradient.gif)
 ![cover](cover_image.png)
 ![](horizontal-divider-gradient.gif)
-
-<!-- # About Me<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">: -->
 
 [![LeetCode user saqlainabid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/saqlainabid/)
 
@@ -46,9 +46,10 @@ new Person({
 D:\lab\Deri-Kurniawan> node index.js
 Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ```
+<!--x-axis divider-->
+![](horizontal-divider-gradient.gif)
 
 <div align="center">
-
 
 # Let's Connect and have a Chat! 💬 
 <p align="center">
