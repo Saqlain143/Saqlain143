@@ -41,8 +41,7 @@ new Person({
 ```
 
 ```cmd
-D:\lab\Deri-Kurniawan> node index.js
-Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
+Hi, I am Saqlain Abid, an AI-driven Software Engineer with a degree in Software Engineering and 5+ years of experience across diverse tech stacks. Developed sensor-based smart traffic systems and AI-powered applications enhancing user experiences. Proven success in international hackathons, coding competitions, internships, and professional roles. Skilled in software engineering, AI/ML, computer science, and cybersecurity. Expertise includes optimizing web apps, assessing vulnerabilities, and contributing to large-scale projects. Passionate about leveraging AI to transform healthcare and education.
 ```
 <!--x-axis divider-->
 ![](horizontal-divider-gradient.gif)
@@ -86,7 +85,7 @@ Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
 </a>  
 </p>
 
-# Skill Set🛠:
+# Skill Set 🛠
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -113,7 +112,7 @@ Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-# GitHub Stats📈:
+# GitHub Stats 📈
 <p align="center">
     <a href="https://github.com/Saqlain143">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saqlain143&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -129,7 +128,7 @@ Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
 
 #
 
-# Completed International Hackathons🥇:
+# Completed International Hackathons 🥇
 
 <p float="left">
  <a href="https://lablab.ai/event/gemini-ultra-hackathon/ragistan/shopgini">
@@ -373,15 +372,8 @@ Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
     <td align="center">365 Days Badge</td>
     <td align="center">Submit code on 365+ distinct days</td>
     <td align="center">Submission Days</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
   </tr>
-
-
-
-
-
-
-
   <tr>
     <td align="center"><img src="Badges/Daily-Medals/GIF/202501.gif" width="100"></td>
     <td align="center">Jan 2025 Badge</td>
