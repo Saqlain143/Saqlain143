@@ -12,6 +12,8 @@
 
 </h3>
 
+<div align="center">
+
 <!--x-axis divider-->
 ![](horizontal-divider-gradient.gif)
 ![cover](cover_image.png)
@@ -20,31 +22,27 @@
 [![LeetCode user saqlainabid](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsaqlainabid&logo=leetcode&logoColor=yellow)](https://leetcode.com/saqlainabid/)
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/Saqlain143.svg)](https://user-badge.committers.top/pakistan/Saqlain143)
+</div>
 
-<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width= "400" /> -->
 
-<picture>
-<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
-<img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
-</a>
-</picture>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" />
 
 ```js
 "use creativity";
-import { Person } from "indonesia";
+import { Person } from "Pakistan";
 
 new Person({
-  name: "Deri Kurniawan",
-  title: "Full Stack Developer",
-  email: "hi@derikn.com",
-  website: "https://derikn.com",
+  name: "Saqlain Abid",
+  title: "Software Engineer",
+  email: "saqlainabid143@gmail.com",
+  website: "https://saqlain143.github.io/Portfolio/",
   junior: !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\lab\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
+Hi, I am Saqlain Abid, a highly skilled and motivated software engineer.
 ```
 <!--x-axis divider-->
 ![](horizontal-divider-gradient.gif)
