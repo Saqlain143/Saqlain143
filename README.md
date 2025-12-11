@@ -41,7 +41,9 @@ new Person({
 ```
 
 ```cmd
-Hi, I am Saqlain Abid, an AI-driven Software Engineer with a degree in Software Engineering and 5+ years of experience across diverse tech stacks. Developed sensor-based smart traffic systems and AI-powered applications enhancing user experiences. Proven success in international hackathons, coding competitions, internships, and professional roles. Skilled in software engineering, AI/ML, computer science, and cybersecurity. Expertise includes optimizing web apps, assessing vulnerabilities, and contributing to large-scale projects. Passionate about leveraging AI to transform healthcare and education.
+Hi, I am Saqlain Abid, an AI-driven Software Engineer with a degree in Software Engineering and 5+ years of experience across diverse tech stacks. 
+Developed sensor-based smart traffic systems and AI-powered applications enhancing user experiences. Proven success in international hackathons, coding competitions, internships, and professional roles. Skilled in software engineering, AI/ML, computer science, and cybersecurity. 
+Expertise includes optimizing web apps, assessing vulnerabilities, and contributing to large-scale projects. Passionate about leveraging AI to transform healthcare and education.
 ```
 <!--x-axis divider-->
 ![](horizontal-divider-gradient.gif)
